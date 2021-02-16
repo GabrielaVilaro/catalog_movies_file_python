@@ -7,5 +7,5 @@ Consiste en un programa que añade películas a un archivo .txt, los lista y lo 
 
 Requerimientos
 
-  Python 3.4 > =
+  Python 3.4 o superior
 
